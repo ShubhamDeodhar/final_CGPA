@@ -1,0 +1,30 @@
+
+body{
+    background:linear-gradient(#7efff5,#1e3799);
+}
+
+.jumbotron{
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom:30px;
+    color:white;
+    background-color:#3c40c6;
+    
+}
+#lets{
+    margin-bottom: 30px;
+    border-bottom: 2px ridge black;
+    text-align:center;
+}
+#Body{
+    border-right:1px solid black;
+    border-left:1px solid black;
+    border-bottom:1px solid black;
+}
+.item{
+    padding-bottom: 7px;
+    border-bottom:1px solid black;
+}
+#mc,#mb{
+    color:white;
+}
